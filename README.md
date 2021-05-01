@@ -16,11 +16,11 @@ All libraries are avilable in Anaconda distribution of Python.  The code should 
 
 I will analyse a dataset to see how data analysis can help us to get insights from the data. The project uses one of the famous opened datasets in the internet which is AirBnb dataset ([Boston AirBnb](https://www.kaggle.com/airbnb/boston/) and [Seattle AirBnb](https://www.kaggle.com/airbnb/seattle/data) datasets).
 
-Here, I will try to answer four questions which are:
+Here, I will try to answer Three questions which are:
 
-1- What is most common property type for rent in each state?
-2-What aspects correlate well to the listing review scores rating?
-3- How can I predict the listings prices in Boston and Seattle?
+### 1- What is most common property type for rent in each state?
+### 2-What aspects correlate well to the listing review scores rating?
+### 3- How can I predict the listings prices in Boston and Seattle?
 
 In order to answer the questions, CRISP-DM process is followed.
 
