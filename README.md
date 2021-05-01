@@ -34,7 +34,7 @@ In order to answer the questions, CRISP-DM process is followed.
 
 ## Results<a name="results"></a>
 
-The main findings of the code is available [here](https://medium.com/seattle-and-boston-airbnb-listings-analysis/seattle-and-boston-airbnb-listings-analysis-1eabf45c6695).
+The main findings of this project is available in this blog[here](https://medium.com/seattle-and-boston-airbnb-listings-analysis/seattle-and-boston-airbnb-listings-analysis-1eabf45c6695).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
