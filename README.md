@@ -13,16 +13,16 @@
 All libraries are avilable in Anaconda distribution of Python.  The code should run using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
-
-I will analyse a dataset to see how data analysis can help us to get insights from the data. The project uses one of the famous opened datasets in the internet which is AirBnb dataset ([Boston AirBnb](https://www.kaggle.com/airbnb/boston/) and [Seattle AirBnb](https://www.kaggle.com/airbnb/seattle/data) datasets).
-
-Here, I will try to answer Three questions which are:
-
+First we need to understanding the business and the data . Initial analysis has been performed to see what variables we have in each of the datasets provided from Airbnb in order to create some useful business related questions and insights. The raw data will be read in and examined using basic statistical analysis and visualisations.I will analyse a dataset to see how data analysis can help us to get insights from the data. The project uses one of the famous opened datasets in the internet which is AirBnb dataset ([Boston AirBnb](https://www.kaggle.com/airbnb/boston/) and [Seattle AirBnb](https://www.kaggle.com/airbnb/seattle/data) datasets).I did data cleansing, data wrangling and data preparation before answering the question or doing data modeling. Here, I will try to answer three questions which are:
 ### 1- What is most common property type for rent in each state?
 ### 2-What aspects correlate well to the listing review scores rating?
 ### 3- How can I predict the listings prices in Boston and Seattle?
 
-In order to answer the questions, CRISP-DM process is followed.
+In order to answer the questions, I will follow the CRISP-DM process which are: Business understanding, Data understanding, Data preparation, Modeling, Evaluation, Deployment.
+
+I will not apply the last step.
+
+
 
 ## File Descriptions <a name="files"></a>
 
@@ -34,7 +34,7 @@ In order to answer the questions, CRISP-DM process is followed.
 
 ## Results<a name="results"></a>
 
-The main findings of this project is available in this blog[here](https://medium.com/seattle-and-boston-airbnb-listings-analysis/seattle-and-boston-airbnb-listings-analysis-1eabf45c6695).
+The main findings of this project is available in this blog [here](https://medium.com/seattle-and-boston-airbnb-listings-analysis/seattle-and-boston-airbnb-listings-analysis-1eabf45c6695).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
